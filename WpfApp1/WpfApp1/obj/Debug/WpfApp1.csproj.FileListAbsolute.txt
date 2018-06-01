@@ -1,0 +1,15 @@
+\\HHSDC\181345$\My Documents\ICS3U\Programs\donkey kong\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+\\HHSDC\181345$\My Documents\ICS3U\Programs\donkey kong\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+\\HHSDC\181345$\My Documents\ICS3U\Programs\donkey kong\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+\\HHSDC\181345$\My Documents\ICS3U\Programs\donkey kong\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojResolveAssemblyReference.cache
+\\HHSDC\181345$\My Documents\ICS3U\Programs\donkey kong\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+\\HHSDC\181345$\My Documents\ICS3U\Programs\donkey kong\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+\\HHSDC\181345$\My Documents\ICS3U\Programs\donkey kong\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+\\HHSDC\181345$\My Documents\ICS3U\Programs\donkey kong\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+\\HHSDC\181345$\My Documents\ICS3U\Programs\donkey kong\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+\\HHSDC\181345$\My Documents\ICS3U\Programs\donkey kong\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+\\HHSDC\181345$\My Documents\ICS3U\Programs\donkey kong\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+\\HHSDC\181345$\My Documents\ICS3U\Programs\donkey kong\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.Cache
+\\HHSDC\181345$\My Documents\ICS3U\Programs\donkey kong\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+\\HHSDC\181345$\My Documents\ICS3U\Programs\donkey kong\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+\\HHSDC\181345$\My Documents\ICS3U\Programs\donkey kong\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
